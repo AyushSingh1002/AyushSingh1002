@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hey, I'm Ayush Kumar Singh</h1>
 
 <h3 align="center">💻 Full-Stack Developer | 🚀 Tech Explorer | 🛠️ Problem Solver</h3>  
+
 ---
 
 🧑‍💻 About Me
