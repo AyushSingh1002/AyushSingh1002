@@ -88,6 +88,7 @@ Tech: Next.js, PostgreSQL
     />  
   </a>  
 </p>  
+
 ---  
 
 📫 Connect With Me
@@ -103,6 +104,7 @@ Tech: Next.js, PostgreSQL
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />  
   </a>  
 </p>  
+
 ---  
 
 ⭐ "Code is like art — it’s meant to be shared and appreciated."
