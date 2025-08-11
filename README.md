@@ -84,13 +84,13 @@
 ## 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-kumar-singh-1b21e/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:ayushkumar408647@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Email" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
   <a href="https://github.com/AyushSingh1002" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/181717/github.png" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
 </p>
 ---
