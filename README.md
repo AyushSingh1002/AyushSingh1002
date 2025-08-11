@@ -45,6 +45,7 @@ Frontend
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" height="50" alt="OpenAI" />  
 </p>  
+--  
 📌 Featured Projects
 
 🗨️ Full-Stack Chat Web App
@@ -53,6 +54,7 @@ Frontend
 Tech: Node.js, Express.js, Socket.io, MongoDB, EJS
 
 
+---
 
 ✍️ ThoughtTrail
 
@@ -60,12 +62,15 @@ Tech: Node.js, Express.js, Socket.io, MongoDB, EJS
 Tech: Node.js, EJS, MongoDB, TailwindCSS
 
 
+---
 
 📊 EasyTrack
 
 📅 Task management tool with deadlines & progress tracking.
 Tech: Next.js, PostgreSQL
 
+
+---
 
 📈 GitHub Stats
 
@@ -83,6 +88,8 @@ Tech: Next.js, PostgreSQL
     />  
   </a>  
 </p>  
+---  
+
 📫 Connect With Me
 
 <p align="center">  
@@ -95,6 +102,8 @@ Tech: Next.js, PostgreSQL
   <a href="https://github.com/AyushSingh1002" target="_blank">  
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />  
   </a>  
-</p>
+</p>  
+---  
+
 ⭐ "Code is like art — it’s meant to be shared and appreciated."
 
