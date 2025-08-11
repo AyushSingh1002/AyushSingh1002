@@ -15,28 +15,27 @@
 
 **Frontend**  
 <p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-EJS-8BC34A?logo=ejs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-?logo=html5&logoColor=E34F26&style=flat&logoSize=40" />
+  <img src="https://img.shields.io/badge/CSS3-?logo=css3&logoColor=1572B6&style=flat&logoSize=40" />
+  <img src="https://img.shields.io/badge/JavaScript-?logo=javascript&logoColor=F7DF1E&style=flat&logoSize=40" />
+  <img src="https://img.shields.io/badge/React-?logo=react&logoColor=61DAFB&style=flat&logoSize=40" />
+  <img src="https://img.shields.io/badge/TailwindCSS-?logo=tailwindcss&logoColor=06B6D4&style=flat&logoSize=40" />
+  <img src="https://img.shields.io/badge/EJS-?logo=ejs&logoColor=8BC34A&style=flat&logoSize=40" />
 </p>
 
 **Backend**  
 <p>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-?logo=node.js&logoColor=339933&style=flat&logoSize=40" />
+  <img src="https://img.shields.io/badge/Express.js-?logo=express&logoColor=000000&style=flat&logoSize=40" />
+  <img src="https://img.shields.io/badge/TypeScript-?logo=typescript&logoColor=3178C6&style=flat&logoSize=40" />
 </p>
 
 **Database**  
 <p>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-?logo=mongodb&logoColor=47A248&style=flat&logoSize=40" />
+  <img src="https://img.shields.io/badge/PostgreSQL-?logo=postgresql&logoColor=4169E1&style=flat&logoSize=40" />
 </p>
-
----
+--
 
 ## 📌 Featured Projects  
 
