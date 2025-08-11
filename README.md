@@ -69,19 +69,16 @@
   <a href="https://github.com/AyushSingh1002">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=AyushSingh1002&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-      alt="GitHub Stats" 
       height="180"
     />
   </a>
   <a href="https://github.com/AyushSingh1002">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSingh1002&theme=radical&hide_border=true" 
-      alt="GitHub Streak" 
+      src="https://github-readme-streak-stats.herokuapp.com?user=AyushSingh1002&theme=radical&hide_border=true" 
       height="180"
     />
   </a>
 </p>
-
 ---
 
 ## 📫 Connect With Me  
