@@ -47,7 +47,8 @@ Frontend
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" height="50" alt="OpenAI" />  
 </p>  
 
---  
+
+---
 
 📌 Featured Projects
 
