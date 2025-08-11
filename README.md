@@ -14,26 +14,26 @@
 ## 🛠️ Tech Stack  
 
 **Frontend**  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-?logo=html5&logoColor=E34F26&style=flat&logoSize=40" />
-  <img src="https://img.shields.io/badge/CSS3-?logo=css3&logoColor=1572B6&style=flat&logoSize=40" />
-  <img src="https://img.shields.io/badge/JavaScript-?logo=javascript&logoColor=F7DF1E&style=flat&logoSize=40" />
-  <img src="https://img.shields.io/badge/React-?logo=react&logoColor=61DAFB&style=flat&logoSize=40" />
-  <img src="https://img.shields.io/badge/TailwindCSS-?logo=tailwindcss&logoColor=06B6D4&style=flat&logoSize=40" />
-  <img src="https://img.shields.io/badge/EJS-?logo=ejs&logoColor=8BC34A&style=flat&logoSize=40" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="50" alt="EJS" />
 </p>
 
 **Backend**  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-?logo=node.js&logoColor=339933&style=flat&logoSize=40" />
-  <img src="https://img.shields.io/badge/Express.js-?logo=express&logoColor=000000&style=flat&logoSize=40" />
-  <img src="https://img.shields.io/badge/TypeScript-?logo=typescript&logoColor=3178C6&style=flat&logoSize=40" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
 </p>
 
 **Database**  
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-?logo=mongodb&logoColor=47A248&style=flat&logoSize=40" />
-  <img src="https://img.shields.io/badge/PostgreSQL-?logo=postgresql&logoColor=4169E1&style=flat&logoSize=40" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
 </p>
 --
 
