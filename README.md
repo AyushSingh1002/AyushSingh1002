@@ -48,7 +48,7 @@
 
 ### 📊 [EasyTrack](https://github.com/AyushSingh1002/EasyTrack)  
 📅 Task management tool with deadlines & progress tracking.  
-**Tech:** React, Node.js, Express.js, MongoDB  
+**Tech:** Nextjs, Postgrss
 
 ---
 
