@@ -44,7 +44,7 @@ Tech: Node.js, EJS, MongoDB, TailwindCSS
 
 ---
 
-📊 EasyTrack
+📊 EazieTrack
 
 📅 Task management tool with deadlines & progress tracking.
 Tech: Next.js, PostgreSQL
