@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ayush Kumar Singh</h1>
+<h1 align="center">Hey 👋, I'm Ayush </h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Apps;JavaScript+%7C+Node+%7C+React;Always+Learning+Something+New" />
