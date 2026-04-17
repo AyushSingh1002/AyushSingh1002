@@ -1,91 +1,105 @@
-<h1 align="center">👋 Hey, I'm Ayush Kumar Singh</h1>
+<h1 align="center">Hey 👋, I'm Ayush Kumar Singh</h1>
 
-<h3 align="center">💻 Full-Stack Developer | 🚀 Tech Explorer | 🛠️ Problem Solver</h3>  
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Apps;JavaScript+%7C+Node+%7C+React;Always+Learning+Something+New" />
+</h3>
+
+<p align="center">
+  <a href="https://github.com/AyushSingh1002">
+    <img src="https://komarev.com/ghpvc/?username=AyushSingh1002&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-🧑‍💻 About Me
+## 🚀 Who I Am
 
-🔭 Currently working on Full-Stack Web Applications
-
-🌱 Learning TypeScript & Advanced Backend Architecture
-
-💬 Ask me about JavaScript, Node.js, Express, React
-
-⚡ Fun fact: I turn coffee ☕ into clean code
-
-
+* 💻 Full-stack developer focused on **real-world, scalable applications**
+* 🧠 I care about **clean architecture, performance & user experience**
+* 🌱 Currently exploring **TypeScript, system design & backend scaling**
+* ⚡ I enjoy turning complex problems into simple, usable products
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Frontend | Backend | Database | Tools |
-|----------|---------|----------|-------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" height="50"/> |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,ts,mongodb,postgres,mysql,redis,git,github,vscode" />
+
+</p>
 
 ---
 
-📌 Featured Projects
+## 📌 Featured Work
 
-🗨️ Full-Stack Chat Web App
+### 💬 Real-Time Chat Application
 
-💬 Real-time chat app with authentication, private messages, and responsive UI.
-Tech: Node.js, Express.js, Socket.io, MongoDB, EJS
+> A full-stack chat platform with authentication and live messaging
 
+* ⚡ Real-time communication using WebSockets (Socket.io)
+* 🔐 Secure authentication & private chats
+* 📱 Fully responsive UI
 
----
-
-✍️ ThoughtTrail
-
-📝 Blogging platform for sharing ideas, with comments and a clean interface.
-Tech: Node.js, EJS, MongoDB, TailwindCSS
-
+**Tech:** Node.js, Express, MongoDB, EJS, Socket.io
 
 ---
 
-📊 EazieTrack
+### ✍️ ThoughtTrail (Blog Platform)
 
-📅 Task management tool with deadlines & progress tracking.
-Tech: Next.js, PostgreSQL
+> A minimal and clean blogging experience
 
+* 📝 Create, edit & manage posts
+* 💬 Comment system for engagement
+* 🎨 Clean UI using TailwindCSS
+
+**Tech:** Node.js, MongoDB, TailwindCSS, EJS
 
 ---
 
-📈 GitHub Stats
+### 📊 EazieTrack (Task Manager)
 
-<p align="center">  
-  <a href="https://github.com/AyushSingh1002">  
-    <img   
-      src="https://github-readme-stats.vercel.app/api?username=AyushSingh1002&show_icons=true&theme=radical&hide_border=true&count_private=true"   
-      height="180"  
-    />  
-  </a>  
-  <a href="https://github.com/AyushSingh1002">  
-    <img   
-      src="https://github-readme-streak-stats.herokuapp.com?user=AyushSingh1002&theme=radical&hide_border=true"   
-      height="180"  
-    />  
-  </a>  
-</p>  
+> Productivity-focused task tracking system
 
----  
+* 📅 Deadlines & progress tracking
+* ⚡ Fast UI built with Next.js
+* 🗄️ Structured relational data with PostgreSQL
 
-📫 Connect With Me
+**Tech:** Next.js, PostgreSQL
 
-<p align="center">  
-  <a href="https://www.linkedin.com/in/ayush-kumar-singh-1b21e/" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />  
-  </a>  
-  <a href="mailto:ayushkumar408647@gmail.com">  
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />  
-  </a>  
-  <a href="https://github.com/AyushSingh1002" target="_blank">  
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />  
-  </a>  
-</p>  
+---
 
----  
+## 📈 GitHub Insights
 
-⭐ "Code is like art — it’s meant to be shared and appreciated."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushSingh1002&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyushSingh1002&theme=radical&hide_border=true" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSingh1002&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-kumar-singh-1b21e/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:ayushkumar408647@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/AyushSingh1002">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🧠 Developer Mindset
+
+<p align="center">
+  <i>"Good code works. Great code lasts."</i>
+</p>
