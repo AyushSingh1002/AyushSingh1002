@@ -1,75 +1,176 @@
-<h1 align="center">Hey 👋, I'm Ayush </h1>
+<h1 align="center">Hey, I'm Ayush</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Scalable+Web+Apps;JavaScript+%7C+Node+%7C+React;Always+Learning+Something+New" />
+  Backend-Focused Full Stack Developer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/AyushSingh1002">
-    <img src="https://komarev.com/ghpvc/?username=AyushSingh1002&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
+  Building scalable APIs, backend systems, and production-ready web applications.
 </p>
-
----
-
-## 🚀 Who I Am
-
-* 💻 Full-stack developer focused on **real-world, scalable applications**
-* 🧠 I care about **clean architecture, performance & user experience**
-* 🌱 Currently exploring **TypeScript, system design & backend scaling**
-* ⚡ I enjoy turning complex problems into simple, usable products
-
----
-
-## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,ts,mongodb,postgres,mysql,redis,git,github,vscode" />
-
+  <img src="https://komarev.com/ghpvc/?username=AyushSingh1002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 📌 Featured Work
+## About Me
 
-### 💬 Real-Time Chat Application
+I'm a **Backend-Focused Full Stack Developer** with experience designing, building, testing, and deploying production-ready REST APIs.
 
-> A full-stack chat platform with authentication and live messaging
+My primary backend stack includes **Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, Prisma, Docker, and REST APIs**, with hands-on experience integrating payment gateways such as **Razorpay, PhonePe, and Cashfree**.
 
-* ⚡ Real-time communication using WebSockets (Socket.io)
-* 🔐 Secure authentication & private chats
-* 📱 Fully responsive UI
+I've worked across backend development, API architecture, authentication, webhook handling, testing, Dockerized deployments, and frontend-backend integration through **3 internships**.
 
-**Tech:** Node.js, Express, MongoDB, EJS, Socket.io
+I'm currently expanding my backend expertise into **Java and Spring Boot**, while continuing to build scalable web applications and strengthen my understanding of backend architecture and system design.
 
----
-
-### ✍️ ThoughtTrail (Blog Platform)
-
-> A minimal and clean blogging experience
-
-* 📝 Create, edit & manage posts
-* 💬 Comment system for engagement
-* 🎨 Clean UI using TailwindCSS
-
-**Tech:** Node.js, MongoDB, TailwindCSS, EJS
+- Backend-focused, full-stack capable
+- REST API design & backend architecture
+- Authentication, authorization & webhooks
+- PostgreSQL, MongoDB & Prisma
+- Payment gateway integrations
+- Docker & production deployments
+- Currently expanding into **Java + Spring Boot**
+- Open to backend/full-stack roles and freelance API development
 
 ---
 
-### 📊 EazieTrack (Task Manager)
+## Tech Stack
 
-> Productivity-focused task tracking system
+### Backend
 
-* 📅 Deadlines & progress tracking
-* ⚡ Fast UI built with Next.js
-* 🗄️ Structured relational data with PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,java,spring" />
+</p>
 
-**Tech:** Next.js, PostgreSQL
+**Node.js · Express.js · TypeScript · Java · Spring Boot**
+
+### Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
+</p>
+
+**PostgreSQL · MongoDB · Redis · Prisma · Mongoose**
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+**React · Next.js · Tailwind CSS · Responsive UI**
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
+</p>
+
+**Docker · Git · GitHub · Vercel · Render · Postman · Insomnia**
+
+### APIs & Integrations
+
+**REST APIs · JWT · OAuth · Webhooks · Middleware Architecture**
+
+### Payments
+
+**Razorpay · PhonePe · Cashfree**
 
 ---
 
-## 📈 GitHub Insights
+## Featured Projects
+
+### GymFlow — Gym Management Platform
+
+A full-stack gym management platform designed to streamline gym operations through centralized member, membership, payment, attendance, and operational management.
+
+**What I built:**
+
+- Role-based access control for **Admin, Staff, and Members**
+- Secure JWT authentication
+- Complete membership lifecycle management
+- Plan creation, renewals, expiry alerts, freeze and cancellation workflows
+- Razorpay payment integration with manual payment fallback
+- Payment reconciliation and automated invoices
+- Financial and operational dashboards
+- Staff activity tracking
+- Real-time operational reporting
+
+**Tech:**  
+`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Razorpay`
+
+---
+
+### EasyTrack — AI-Powered Job Application Tracker
+
+An AI-powered job application management platform built to centralize applications, resumes, and job-search insights.
+
+**What I built:**
+
+- Centralized job application tracking
+- Resume parsing
+- AI-powered job-resume matching
+- Secure authentication
+- Zod-based form validation
+- Application status analytics
+- Automated follow-up reminders
+- Backend insights designed to reduce manual tracking
+
+**Tech:**  
+`Next.js App Router` · `PostgreSQL` · `Tailwind CSS` · `Zod` · `AI Integration`
+
+---
+
+## Professional Experience
+
+### Backend Developer Intern — Singing Bird App Pvt Ltd
+
+**Aug 2025 – Feb 2026**
+
+- Architected and wrote comprehensive test suites for Node.js/Express microservices
+- Improved API stability and reduced production bugs
+- Authored internal API documentation and deployment playbooks
+- Built and shipped Docker-containerized REST APIs to production
+
+### Full-Stack Developer Intern — To-Let Global Pvt Ltd
+
+**Jul 2025 – Nov 2025**
+
+- Developed responsive React components integrated with REST APIs
+- Resolved frontend-backend data synchronization issues
+- Conducted Git-based peer code reviews for a team of 4 developers
+- Diagnosed React rendering bottlenecks and improved page load performance
+
+### Backend Developer Intern — Small Fare Pvt Ltd
+
+**Apr 2025 – Jun 2025**
+
+- Designed and implemented RESTful APIs using Node.js and Express
+- Built backend business logic handling 100+ daily transactions
+- Integrated Razorpay, PhonePe, and Cashfree
+- Implemented webhook handling and transaction rollback mechanisms
+- Dockerized the development environment
+
+---
+
+## Currently Exploring
+
+### Java + Spring Boot
+
+I'm currently expanding my backend development skills into the **Java ecosystem**, focusing on:
+
+- Java
+- Spring Boot
+- Backend architecture
+- REST API development
+- Scalable server-side applications
+
+This is an ongoing learning path alongside my existing Node.js/TypeScript backend experience.
+
+---
+
+## GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyushSingh1002&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
@@ -82,24 +183,17 @@
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-kumar-singh-1b21e/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:ayushkumar408647@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/AyushSingh1002">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/ayush-kumar-singh-1b21e">LinkedIn</a> ·
+  <a href="https://portfolio-site-three-blond.vercel.app">Portfolio</a> ·
+  <a href="mailto:ayushkumar408647@gmail.com">Email</a> ·
+  <a href="https://github.com/AyushSingh1002">GitHub</a>
 </p>
 
 ---
 
-## 🧠 Developer Mindset
+## Developer Mindset
 
-<p align="center">
-  <i>"Good code works. Great code lasts."</i>
-</p>
+> I don't just write code — I build systems that solve real problems.
